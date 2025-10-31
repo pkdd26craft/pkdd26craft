@@ -1,6 +1,6 @@
 # Accurate Stock Movement Prediction via Centroid-based Randomness Smoothing
 
-This project is the implementation of the paper "Centroid-based Randomness Smoothing Approach for Stock Forecasting with Transformer Architecture" (submitted to PKDD 2026).
+This project is the implementation of the paper "Accurate Stock Movement Prediction via Centroid-based Randomness Smoothing" (submitted to PKDD 2026).
 
 ## Prerequisites
 
